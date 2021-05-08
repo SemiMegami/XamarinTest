@@ -1,0 +1,14 @@
+/Users/sumet/Projects/DoToo/DoToo/bin/Debug/netstandard2.0/DoToo.deps.json
+/Users/sumet/Projects/DoToo/DoToo/bin/Debug/netstandard2.0/DoToo.dll
+/Users/sumet/Projects/DoToo/DoToo/bin/Debug/netstandard2.0/ref/DoToo.dll
+/Users/sumet/Projects/DoToo/DoToo/bin/Debug/netstandard2.0/DoToo.pdb
+/Users/sumet/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.csprojAssemblyReference.cache
+/Users/sumet/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/sumet/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/sumet/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.AssemblyInfoInputs.cache
+/Users/sumet/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.AssemblyInfo.cs
+/Users/sumet/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.csproj.CoreCompileInputs.cache
+/Users/sumet/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/sumet/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.dll
+/Users/sumet/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/ref/DoToo.dll
+/Users/sumet/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.pdb
